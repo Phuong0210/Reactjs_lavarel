@@ -49,3 +49,9 @@ body,html{
     color:white;
     text-decoration:none;
     }
+    /* //////////////////// */
+    .show{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
